@@ -1,11 +1,38 @@
 <h3 align="center">Jishnu B. ⚡ Aspiring Full-Stack & Creative Web Developer</h3>
+<br />
 
-<p align="center">
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+
+**About me**
+
+- 💼  Aspiring Full-Stack & Creative Web Developer 
+
+- 📈 Built Webapplication using ReactJs,NodeJs and Express
+
+- ❤️ I love building website and fun experiments.
+
+- 💬 Ask me about anything [Jishnu B](mailto:jishnubalakrishnan26@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+<p align="center justify-center flex">
+   <div align="center">
+   <img src="https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=F24E1E" height="25"/>
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  height="25"/>
    <img src="https://img.shields.io/badge/Tailwind_CSS-%2320232a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"  height="25"/>
-   <img src="https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=F24E1E" height="25"/>
-
-
+   <img src="https://img.shields.io/badge/MUI-%2320232a?style=for-the-badge&logo=mui&logoColor=blue" height="25"/>
+   <img src="https://img.shields.io/badge/-AntDesign-%2320232a?style=for-the-badge&logo=ant-design&logoColor=ff1709" height="25"/>
+   <img src="https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=F24E1E" height="25"/>
+   <img src="https://img.shields.io/badge/express.js-%2320232a?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25"/>
+      </div>
+      <div align="center">
+   <img src="https://img.shields.io/badge/MongoDB-%2320232a?style=for-the-badge&logo=mongodb&logoColor=%589636" height="25"/>
+   <img src="https://img.shields.io/badge/Linux-%2320232a?style=for-the-badge&logo=linux&logoColor=yellow" height="25"/>
+   <img src="https://img.shields.io/badge/html-%2320232a?style=for-the-badge&logo=html5&logoColor=red" height="25"/>
+   <img src="https://img.shields.io/badge/javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=yellow" height="25"/>
+   <img src="https://img.shields.io/badge/css3-%2320232a?style=for-the-badge&logo=css3&logoColor=2965f1" height="25"/>
+   <img src="https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=4B8BBE" height="25"/>
+   <img src="https://img.shields.io/badge/github-%2320232a?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+   </div>
+   
 
 </p>
 
