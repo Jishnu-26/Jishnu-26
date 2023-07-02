@@ -39,8 +39,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 <br />
 <div align="center">
-   <img width="400" src="https://jishnu-26-git-master-jishnu-26.vercel.app/api?username=Jishnu-26&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="336" src="https://jishnu-26-git-master-jishnu-26.vercel.app/api/top-langs/?username=Jishnu-26&theme=tokyonight&layout=compact&hide_border=true&count_private=true" />
+   <img align="center" width="400" src="https://jishnu-26-git-master-jishnu-26.vercel.app/api?username=Jishnu-26&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" width="336" src="https://jishnu-26-git-master-jishnu-26.vercel.app/api/top-langs/?username=Jishnu-26&theme=tokyonight&layout=compact&hide_border=true&count_private=true" />
 </div>
 
 
