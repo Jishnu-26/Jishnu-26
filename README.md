@@ -1,4 +1,4 @@
-<h3 align="center">Jishnu B. ⚡ Aspiring Full-Stack & Creative Web Developer</h3>
+<p align="center"><a href="https://jishnu-26.github.io/cv/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="banner-2.png" /></a></p>
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
@@ -12,6 +12,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 - ❤️ I love building website and fun experiments.
 
 - 💬 Ask me about anything [Jishnu B](mailto:jishnubalakrishnan26@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+<br />
 
 <p align="center justify-center flex">
    <div align="center">
@@ -35,7 +36,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
    
 
 </p>
-
+<br />
+<br />
 <div align="center">
    <img width="400" src="https://jishnu-26-git-master-jishnu-26.vercel.app/api?username=Jishnu-26&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="336" src="https://jishnu-26-git-master-jishnu-26.vercel.app/api/top-langs/?username=Jishnu-26&theme=tokyonight&layout=compact&hide_border=true&count_private=true" />
