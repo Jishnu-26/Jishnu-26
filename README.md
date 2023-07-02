@@ -42,5 +42,15 @@ I'm a self-taught passionate Full-Stack developer from India 🇮🇳
    <img align="center" width="400" src="https://jishnu-26-git-master-jishnu-26.vercel.app/api?username=Jishnu-26&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img align="center" width="336" src="https://jishnu-26-git-master-jishnu-26.vercel.app/api/top-langs/?username=Jishnu-26&theme=tokyonight&layout=compact&hide_border=true&count_private=true" />
 </div>
+<br />
+<br />
+<p align="center">
+   <a href="https://www.linkedin.com/in/jishnubk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jishnu" height="30" width="40" /></a>
+   <a href="https://twitter.com/Jishnu26_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jishnu" height="30" width="40" /></a>
+   <a href="Assassin#5308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Assassin#5308" height="30" width="40" /></a>
+<a href="https://leetcode.com/jishnubalakrishnan26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jishnu" height="30" width="40" /></a>
+</p>
+
+</p>
 
 
