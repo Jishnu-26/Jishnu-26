@@ -1,4 +1,4 @@
-<p align="center"><a href="https://jishnu-26.github.io/cv/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="banner-2.png" /></a></p>
+<p align="center"><a href="https://jishnu-26.github.io/cv/"><img width="80%" alt="Hello, I'm Jishnu I do open source!" src="banner-2.png" /></a></p>
 <br />
 
 I'm a self-taught passionate Full-Stack developer from India 🇮🇳
