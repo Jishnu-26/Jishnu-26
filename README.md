@@ -1,13 +1,13 @@
 <p align="center"><a href="https://jishnu-26.github.io/cv/"><img width="80%" alt="Hello, I'm Jishnu I do open source!" src="banner-2.png" /></a></p>
 <br />
 
-I'm a self-taught passionate Full-Stack developer from India 🇮🇳
+I'm a Full-Stack developer.
 
 **About me**
 
-- 💼  Aspiring Full-Stack & Creative Web Developer 
+- 💼  Full-Stack & Creative Web Developer 
 
-- 📈 Built Webapplication using ReactJs,NodeJs and Express
+- 📈 Built Webapplication using NextJs, ReactJs,NodeJs and Express
 
 - ❤️ I love building website and fun experiments.
 
