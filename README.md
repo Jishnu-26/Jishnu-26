@@ -7,7 +7,7 @@ I'm a Full-Stack developer.
 
 - 💼  Full-Stack & Creative Web Developer 
 
-- 📈 Built Webapplication using NextJs, ReactJs,NodeJs and Express
+- 📈 Built Webapplication using NextJs, ReactJs, NodeJs and Express
 
 - ❤️ I love building website and fun experiments.
 
